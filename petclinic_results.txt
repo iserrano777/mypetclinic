@@ -1,0 +1,318 @@
+{
+  "total": 9,
+  "p": 1,
+  "ps": 500,
+  "paging": {
+    "pageIndex": 1,
+    "pageSize": 500,
+    "total": 9
+  },
+  "effortTotal": 90,
+  "issues": [
+    {
+      "key": "AXvj8PXWD2-igd8y2s6-",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/OwnerController.java",
+      "project": "petclinic",
+      "line": 115,
+      "hash": "e08c33c23d56989c9da18f1db6df9850",
+      "textRange": {
+        "startLine": 115,
+        "endLine": 115,
+        "startOffset": 54,
+        "endOffset": 59
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "antoine.rey@free.fr",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2015-10-28T07:30:44+0000",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    },
+    {
+      "key": "AXvj8PXDD2-igd8y2s6v",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/PetController.java",
+      "project": "petclinic",
+      "line": 102,
+      "hash": "b4752502c35b079708f5f5ded0ed10ba",
+      "textRange": {
+        "startLine": 102,
+        "endLine": 102,
+        "startOffset": 47,
+        "endOffset": 50
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "antoine.rey@free.fr",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2015-10-28T07:30:44+0000",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    },
+    {
+      "key": "AXvj8PXDD2-igd8y2s6w",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/PetController.java",
+      "project": "petclinic",
+      "line": 102,
+      "hash": "b4752502c35b079708f5f5ded0ed10ba",
+      "textRange": {
+        "startLine": 102,
+        "endLine": 102,
+        "startOffset": 80,
+        "endOffset": 85
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "antoine.rey@free.fr",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2015-10-28T07:30:44+0000",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    },
+    {
+      "key": "AXvj8PXWD2-igd8y2s64",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/OwnerController.java",
+      "project": "petclinic",
+      "line": 67,
+      "hash": "c562e0936761dc8b72ec7bd8a47ddebc",
+      "textRange": {
+        "startLine": 67,
+        "endLine": 67,
+        "startOffset": 51,
+        "endOffset": 56
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "antoine.rey@free.fr",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2015-10-23T07:42:27+0100",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    },
+    {
+      "key": "AXvj8PXDD2-igd8y2s6p",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/PetController.java",
+      "project": "petclinic",
+      "line": 72,
+      "hash": "b4286ec7598103c544d13560e0e47ac7",
+      "textRange": {
+        "startLine": 72,
+        "endLine": 72,
+        "startOffset": 41,
+        "endOffset": 46
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "antoine.rey@free.fr",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2015-10-23T07:42:27+0100",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    },
+    {
+      "key": "AXvj8PXDD2-igd8y2s6r",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/PetController.java",
+      "project": "petclinic",
+      "line": 80,
+      "hash": "139df7a2d29b84d1453dd053a626389e",
+      "textRange": {
+        "startLine": 80,
+        "endLine": 80,
+        "startOffset": 44,
+        "endOffset": 49
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "antoine.rey@free.fr",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2015-10-23T07:42:27+0100",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    },
+    {
+      "key": "AXvj8PXDD2-igd8y2s6s",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/PetController.java",
+      "project": "petclinic",
+      "line": 80,
+      "hash": "139df7a2d29b84d1453dd053a626389e",
+      "textRange": {
+        "startLine": 80,
+        "endLine": 80,
+        "startOffset": 62,
+        "endOffset": 65
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "antoine.rey@free.fr",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2015-10-23T07:42:27+0100",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    },
+    {
+      "key": "AXvj8PXHD2-igd8y2s6z",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/VisitController.java",
+      "project": "petclinic",
+      "line": 83,
+      "hash": "6423b02dadebb3fb4eaf77c14197fe29",
+      "textRange": {
+        "startLine": 83,
+        "endLine": 83,
+        "startOffset": 51,
+        "endOffset": 56
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "misvy@gopivotal,com",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2014-11-28T04:19:25+0000",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    },
+    {
+      "key": "AXvj8PXWD2-igd8y2s67",
+      "rule": "java:S4684",
+      "severity": "CRITICAL",
+      "component": "petclinic:src/main/java/org/springframework/samples/petclinic/web/OwnerController.java",
+      "project": "petclinic",
+      "line": 83,
+      "hash": "8890a763e4aeb735a41e10cd7b329a7a",
+      "textRange": {
+        "startLine": 83,
+        "endLine": 83,
+        "startOffset": 40,
+        "endOffset": 45
+      },
+      "flows": [],
+      "status": "OPEN",
+      "message": "Replace this persistent entity with a simple POJO or DTO object.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "misvy@vmware.com",
+      "tags": [
+        "cwe",
+        "owasp-a5",
+        "spring"
+      ],
+      "creationDate": "2013-05-24T23:20:44+0100",
+      "updateDate": "2021-09-14T11:52:49+0100",
+      "type": "VULNERABILITY",
+      "scope": "MAIN"
+    }
+  ],
+  "components": [
+    {
+      "key": "petclinic:src/main/java/org/springframework/samples/petclinic/web/VisitController.java",
+      "enabled": true,
+      "qualifier": "FIL",
+      "name": "VisitController.java",
+      "longName": "src/main/java/org/springframework/samples/petclinic/web/VisitController.java",
+      "path": "src/main/java/org/springframework/samples/petclinic/web/VisitController.java"
+    },
+    {
+      "key": "petclinic:src/main/java/org/springframework/samples/petclinic/web/OwnerController.java",
+      "enabled": true,
+      "qualifier": "FIL",
+      "name": "OwnerController.java",
+      "longName": "src/main/java/org/springframework/samples/petclinic/web/OwnerController.java",
+      "path": "src/main/java/org/springframework/samples/petclinic/web/OwnerController.java"
+    },
+    {
+      "key": "petclinic",
+      "enabled": true,
+      "qualifier": "TRK",
+      "name": "petclinic",
+      "longName": "petclinic"
+    },
+    {
+      "key": "petclinic:src/main/java/org/springframework/samples/petclinic/web/PetController.java",
+      "enabled": true,
+      "qualifier": "FIL",
+      "name": "PetController.java",
+      "longName": "src/main/java/org/springframework/samples/petclinic/web/PetController.java",
+      "path": "src/main/java/org/springframework/samples/petclinic/web/PetController.java"
+    }
+  ],
+  "facets": []
+}
+

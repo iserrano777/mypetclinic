@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/vendors/jquery-ui/themes/base/minified/jquery-ui.min.css HTTP/1.1" 304 - http-bio-9966-exec-4 71
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/resources/css/petclinic.css HTTP/1.1" 200 127373 http-bio-9966-exec-9 78
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/vendors/jquery-ui/ui/jquery.ui.core.js HTTP/1.1" 304 - http-bio-9966-exec-1 47
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/vendors/jquery-ui/themes/base/minified/jquery.ui.theme.min.css HTTP/1.1" 304 - http-bio-9966-exec-6 68
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/vendors/jquery-ui/themes/base/minified/jquery.ui.datepicker.min.css HTTP/1.1" 304 - http-bio-9966-exec-2 68
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/vendors/jquery/jquery.min.js HTTP/1.1" 304 - http-bio-9966-exec-3 48
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/vendors/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 304 - http-bio-9966-exec-14 3
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/resources/images/spring-pivotal-logo.png HTTP/1.1" 304 - http-bio-9966-exec-16 3
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/vendors/jquery-ui/ui/jquery.ui.datepicker.js HTTP/1.1" 304 - http-bio-9966-exec-13 3
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/dandelion/jquery/js/jquery.js HTTP/1.1" 200 294743 http-bio-9966-exec-11 6
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/dandelion-assets/58db5ef591d3f3753ace6cc2b00d1ae6/js/dandelion-datatables-1449cccfd62810073f98af837f433809.js HTTP/1.1" 200 1081 http-bio-9966-exec-15 9
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/dandelion/datatables/js/jquery.dataTables.js HTTP/1.1" 200 453928 http-bio-9966-exec-12 10
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/resources/images/spring-logo-dataflow.png HTTP/1.1" 304 - http-bio-9966-exec-16 3
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/vendors/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 - http-bio-9966-exec-16 12
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/resources/fonts/varela_round-webfont.woff HTTP/1.1" 304 - http-bio-9966-exec-11 13
+0:0:0:0:0:0:0:1 - - [16/Sep/2021:14:38:56 +0100] "GET /petclinic/resources/fonts/montserrat-webfont.woff HTTP/1.1" 304 - http-bio-9966-exec-12 13

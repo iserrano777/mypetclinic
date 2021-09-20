@@ -1,0 +1,30 @@
+{
+  "timing" : {
+    "callGraphConstruction" : {
+      "nano" : 517432000,
+      "epochSecond" : 1631616624
+    },
+    "preparationCompleted" : {
+      "nano" : 399272000,
+      "epochSecond" : 1631616626
+    },
+    "start" : {
+      "nano" : 16381000,
+      "epochSecond" : 1631616621
+    },
+    "end" : {
+      "nano" : 761151000,
+      "epochSecond" : 1631616630
+    }
+  },
+  "app" : {
+    "applicationClasses" : 1002,
+    "libraryClasses" : 3130,
+    "phantomClasses" : 101,
+    "numMethods" : 53826,
+    "numMethodsWithBody" : 6554
+  },
+  "analysis" : {
+    "flows" : 6
+  }
+}
